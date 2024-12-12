@@ -6,7 +6,7 @@ A machine learning project to predict house prices using regression models. This
 This project aims to build a predictive model for house prices based on real estate features such as living area, number of bedrooms, and location.  
 
 ## **Technologies Used:**  
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost)  
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
 - GitHub for code management  
 - Streamlit for app deployment (future).  
 
